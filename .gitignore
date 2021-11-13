@@ -1,0 +1,7 @@
+*.o
+ebpftutorial*.go
+
+# compile file
+*/.tmp_versions/
+*.ko
+*.order
